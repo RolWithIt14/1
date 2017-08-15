@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Aug 2017 21:54:27 at http://vaniki.com/landing?projectId=11e724278f9e08e39db05254a2010e68&supplierId=11e77ced35ed5012b79342010a8402e0&landingId=11e72fe7df48694a9db05254a2010e68&campaignId=11e77cedd4f508f2b79342010a8402e0&subId=42172&clickId=08_38737545_9cd11cd3-ea76-4011-a869-233dbfc2705e +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://vaniki.com/landing?projectId=11e724278f9e08e39db05254a2010e68&supplierId=11e77ced35ed5012b79342010a8402e0&landingId=11e72fe7df48694a9db05254a2010e68&campaignId=11e77cedd4f508f2b79342010a8402e0&subId=42172&clickId=08_38737545_9cd11cd3-ea76-4011-a869-233dbfc2705e -O1 "D:\Github\Vaniki\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:54:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from vaniki.com/landing?projectId=11e724278f9e08e39db05254a2010e68&supplierId=11e77ced35ed5012b79342010a8402e0&landingId=11e72fe7df48694a9db05254a2010e68&campaignId=11e77cedd4f508f2b79342010a8402e0&subId=42172&clickId=08_38737545_9cd11cd3-ea76-4011-a869-233dbfc2705e)
+21:54:44	Warning: 	File not parsed, looks like binary: vaniki.com/assets/33d8619d/fonts/glyphicons-halflings-regular.woff2
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 39 links scanned, 37 files written (1294541 bytes overall) [562420 bytes received at 25564 bytes/sec], 1099469 bytes transferred using HTTP compression in 31 files, ratio 31%, 3.9 requests per connection
+(1 errors, 1 warnings, 0 messages)
